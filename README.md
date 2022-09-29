@@ -1,5 +1,8 @@
 # FastQC
-
+make sure clean read exist
+```
+~/script/fastqc.sh
+```
 
 # MultiQC
 ##Installing Python
