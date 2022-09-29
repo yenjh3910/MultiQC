@@ -1,3 +1,6 @@
+# FastQC
+
+
 # MultiQC
 ##Installing Python
 ```
