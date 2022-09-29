@@ -10,3 +10,8 @@ make sure clean read exist
 conda create --name py3.7 python=3.7
 conda activate py3.7
 ```
+## Running
+```
+cd ~/clean_read
+multiqc .
+```
